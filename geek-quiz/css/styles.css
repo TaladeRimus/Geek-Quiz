@@ -1,0 +1,12 @@
+body { background: #fff}
+.alternativa { list-style: none;}
+.alternativa label { font-weight: normal;}
+.header-title { text-align: center;}
+.questionario { width: 40%; margin: auto; text-align: justify; background: #ccc; margin-bottom: 30px;}
+.questionario ul { width: 100%; margin: 0 0 0 40px; }
+.questionario ul label { margin-top: 20px; }
+.box-perguntas { padding: 20px;}
+.pergunta { margin: 0 0 -30px 30px; }
+.respostas { width: 90%; margin-bottom: 40px;}
+#resultado {margin: 10px 0 30px -60px;width: 100%;font-size: 20px;border: 1px solid #000;border-radius: 5px;padding: 10px;background: #aaa;text-align: center;}
+#test { margin-left: 220px; margin-bottom: 30px;}
